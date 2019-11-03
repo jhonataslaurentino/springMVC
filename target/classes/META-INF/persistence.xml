@@ -11,6 +11,3 @@
         </properties>
     </persistence-unit>
 </persistence>
-<!--Como possivel  ver, são especificadas as propriedades de 
-    conexão com o banco de dados, como URL, usuário, senha e classe de driver JDBC. 
-    Observe que o nome da unidade de persistência SalesDB  será usado no código de configuração.-->
