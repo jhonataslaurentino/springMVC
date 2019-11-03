@@ -18,7 +18,6 @@ public class JpaConfig {
     public LocalEntityManagerFactoryBean entityManagerFactory() {
         LocalEntityManagerFactoryBean factoryBean = new LocalEntityManagerFactoryBean();
         factoryBean.setPersistenceUnitName("SalesDB");
-          
         return factoryBean;
     }
       
@@ -26,7 +25,6 @@ public class JpaConfig {
     public JpaTransactionManager transactionManager(EntityManagerFactory entityManagerFactory) {
         JpaTransactionManager transactionManager = new JpaTransactionManager();
         transactionManager.setEntityManagerFactory(entityManagerFactory);
-          
         return transactionManager;
     } 
 }
