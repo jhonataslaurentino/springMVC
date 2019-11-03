@@ -1,3 +1,6 @@
-# SpringMVC-CRUD
-<br> Exemplo de CRUD com Spring MVC.</br>
-Seguindo o  tutorial: https://www.codejava.net/frameworks/spring/spring-mvc-spring-data-jpa-hibernate-crud-example
+# Spring MVC
+<br> CRUD utilizando Spring MVC</br>
+
+links para consulta:
+[code java](https://www.codejava.net/frameworks/spring/spring-mvc-spring-data-jpa-hibernate-crud-example
+)
